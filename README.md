@@ -9,6 +9,7 @@
 * [anti-materia](https://anti-materia.org/on-methodology-inside-curation-and-the-impossible-dichotomy-between-realism-and-postmodernism) :  ON METHODOLOGY INSIDE CURATION AND THE IMPOSSIBLE DICHOTOMY BETWEEN REALISM AND POSTMODERNISM
 * [anti-materia](https://anti-materia.org/circumventing-the-white-cube) :  CIRCUMVENTING THE WHITE CUBE: DIGITAL CURATORIAL PRACTICES IN CONTEMPORARY MEDIA LANDSCAPES
 * [curatography](https://curatography.org/6-3-en/): The Three Axes of Curating: Ethics, Politics, and Aesthetics
+* [clark buckner](http://clarkbuckner.com/clarkbuckner/276) : The Experimental Conditions of Exhibition Practice, Curator's Role in Contemporary Art 
 
 
 ### software 
