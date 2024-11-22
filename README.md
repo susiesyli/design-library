@@ -4,6 +4,13 @@
 * [software](#software)
 
 
+### contemporary curatorial theory 
+[e-flux Contemporary Curating: Radical, Digital, Diverse](https://www.e-flux.com/announcements/447157/contemporary-curating-radical-digital-diverse/)\
+[anti-materia ON METHODOLOGY INSIDE CURATION AND THE IMPOSSIBLE DICHOTOMY BETWEEN REALISM AND POSTMODERNISM](https://anti-materia.org/on-methodology-inside-curation-and-the-impossible-dichotomy-between-realism-and-postmodernism)\
+[anti-materia CIRCUMVENTING THE WHITE CUBE: DIGITAL CURATORIAL PRACTICES IN CONTEMPORARY MEDIA LANDSCAPES](https://anti-materia.org/circumventing-the-white-cube)\
+[curatography](https://curatography.org/6-3-en/)
+
+
 ### software 
 ☽ touchdesigner
 
