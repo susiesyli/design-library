@@ -64,9 +64,10 @@ adobe firefly
 ☽ viction:ary color palette mini series\
 [foundcolor](https://foundcolor.co)
 
-### bungee-space-esque-zine/gd-history-archive
-[peoplesgdarchive](https://peoplesgdarchive.org)\
-[physical archive locations, mostly UES](https://www.aiga.org/resources/design-history-resources-and-archives)
+### bungee-space-esque-zine/graphic, archives 
+* [peoplesgdarchive](https://peoplesgdarchive.org)
+* [physical archive locations, mostly UES](https://www.aiga.org/resources/design-history-resources-and-archives)
+* [whitney archives](https://whitney.org/research/archives)
 
 
 ### misc + tutorials 
