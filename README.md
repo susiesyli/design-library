@@ -2,7 +2,8 @@
 
 
 ## software 
-☽ touchdesigner\ 
+☽ touchdesigner
+
 adobe firefly 
 
 ## mockups 
