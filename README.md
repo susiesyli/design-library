@@ -65,7 +65,8 @@ adobe firefly
 [foundcolor](https://foundcolor.co)
 
 ### bungee-space-esque-zine/gd-history-archive
-[peoplesgdarchive](https://peoplesgdarchive.org)
+[peoplesgdarchive](https://peoplesgdarchive.org)\
+[physical archive locations, mostly UES](https://www.aiga.org/resources/design-history-resources-and-archives)
 
 
 ### misc + tutorials 
