@@ -1,6 +1,7 @@
 # design-library
 
 ## Index
+* [software](#software)
 
 
 ### software 
