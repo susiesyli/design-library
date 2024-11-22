@@ -2,17 +2,17 @@
 
 
 ## software 
-☽ touchdesigner \ 
+☽ touchdesigner\ 
 adobe firefly 
 
 ## mockups 
 [flair](https://flair.ai) generate hd mock-ups\
-[fockups](https://fockups.com) \
+[fockups](https://fockups.com)\
 [non-standard mockups](https://products.ls.graphics/longscroll-mockups)\
-☽ [creatsy](https://creatsy.com) industrial/product \
+☽ [creatsy](https://creatsy.com) industrial/product\
 
 ## graphic tools 
-[halftone](https://halftone.xoihazard.com) image to greyscale \
+[halftone](https://halftone.xoihazard.com) image to greyscale\
 
 ## typeface 
 [enfont](https://enfont.javierarce.com)\
@@ -20,11 +20,11 @@ adobe firefly
 [wordmark](https://wordmark.it)\
 
 ## viction:ary esque gradients 
-[pixeden](https://pixeden.com) \
+[pixeden](https://pixeden.com)\
 
 ## symbols 
-[lordicon](https://lordicon.com) \
-[symbol](https://symbol.wtf) \
+[lordicon](https://lordicon.com)\
+[symbol](https://symbol.wtf)\
 
 ## web 
 [httpster](https://httpster.net) web design inspo
@@ -37,7 +37,7 @@ adobe firefly
 [tools dia](https://tools.dia.tv)
 
 ## blogs 
-[9elements](https://9elements.com/blog/) \
+[9elements](https://9elements.com/blog/)\
 
 ## human-centric accessible design 
 [a11yproject](https://a11yproject.com)\
@@ -49,7 +49,7 @@ adobe firefly
 
 
 ## color palettes
-☽ viction:ary color palette mini series \
+☽ viction:ary color palette mini series\
 [foundcolor](https://foundcolor.co)\
 
 ## bungee-space-esque-zine/gd-history-archive
@@ -57,7 +57,7 @@ adobe firefly
 
 
 ## misc + tutorials 
-vetorial - illustrator tutorials \
-[glyphy](https://glyphy.io) \
+vetorial - illustrator tutorials\
+[glyphy](https://glyphy.io)\
 [anothergraphic](https://anothergraphic)\
 
